@@ -1,3 +1,4 @@
-# this is readme file
-## and i am editing in this file
-*this text is bold*
+*Item 1
+*Item 2
+    *Item 2a
+    *Item 2b
